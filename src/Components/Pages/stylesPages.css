@@ -1,0 +1,69 @@
+.home-wrapp, .rubrics-wrapp, .foto-wrapp, .about-wrapp {
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    /* margin-bottom: 1%; */
+    width: 93%;
+    height: auto;
+    /* border: 3px solid yellowgreen; */
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+}
+.lifestyle-block, .rubrics-block, .foto-block, .about-block {
+    margin-top: 1%;
+    margin-left: 1.5%;
+    width: 98%;
+    height: auto;
+    /* border: 3px solid yellowgreen; */
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.window {
+    position: relative;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 1.5%;
+    width: 25%;
+    height: 440px;
+    /* border: 3px solid yellowgreen; */
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.button {
+    font-size: 40px;
+    align-content: center;
+    color: yellowgreen;
+}
+.first, .third {
+    background-color: rgb(199, 151, 151);
+}
+.second, .poster, .rubric1, .banner, .rubric2, .rubric3, .rubric4,.brand {
+    background-color: rgb(199, 138, 225);
+}
+
+.circle {
+    position: absolute;
+    left: 70%;
+    top: 75%;
+    width: 80px;
+    height: 80px;
+    border-radius: 55%;
+    background-color: yellowgreen;
+}
+.lyfestyle-block2, .rubrics-block2, .foto-block2 {
+    margin-top: 0.5%;
+    margin-left: 1.5%;
+    width: 98%;
+    height: auto;
+    /* border: 3px solid yellowgreen; */
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

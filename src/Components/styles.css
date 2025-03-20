@@ -1,0 +1,84 @@
+.header-wrapp {
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-right: 5%;
+    width: 91%;
+    height: 80px;
+    border: 3px solid yellowgreen;
+    border-radius: 12px;
+}
+.header-navigate {
+    width: 98%;
+    height: 92%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rubrics {
+    color: yellowgreen;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.inpraguecity {
+    color: yellowgreen;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.search {
+    height: 32px;
+    outline: none;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    background-color: grey;
+    
+}
+::placeholder {
+    color: yellowgreen;
+}
+.lang {
+    color: yellowgreen;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.footer-wrapp {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    width: 91%;
+    height: 80px;
+    border: 3px solid yellowgreen;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-navigate {
+    width: 98%;
+    height: 92%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.brands {
+    color: yellowgreen;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.about {
+    color: yellowgreen;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.allrights {
+    color: yellowgreen;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+}
